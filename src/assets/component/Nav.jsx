@@ -26,7 +26,7 @@ function Nav() {
                 Contact
               </li>
             </Link>
-            <Link to="">
+            <Link to="/projects">
               <li className="hover:underline underline-offset-5 transition translate-x-1">
                 Projects
               </li>
