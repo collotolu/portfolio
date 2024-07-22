@@ -17,8 +17,10 @@ function Projects() {
             className="w-[500px]"
           />
           <div className="flex justify-center gap-5 my-[10px]">
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">HTML</p>
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">CSS</p>
+            {/* <p className="bg-gray-400 text-white rounded-2xl px-[10px]">HTML</p> */}
+            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
+              Tailwindcss
+            </p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
               React
             </p>
@@ -28,9 +30,11 @@ function Projects() {
           </div>
           <div className="my-[5%] flex justify-center">
             {" "}
-            <button className="bg-blue-400 p-[10px] rounded-2xl">
-              Git-Hub Link
-            </button>
+            <a href="https://github.com/collotolu/jantah">
+              <button className="bg-blue-400 p-[10px] rounded-2xl">
+                Git-Hub Link
+              </button>
+            </a>
           </div>
         </div>
         <div className="border shadow-2xl p-[20px]">
@@ -43,17 +47,19 @@ function Projects() {
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">HTML</p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">CSS</p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
-              React
+              SASS
             </p>
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
+            {/* <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
               Node.js
-            </p>
+            </p> */}
           </div>
           <div className="my-[5%] flex justify-center">
             {" "}
-            <button className="bg-blue-400 p-[10px] rounded-2xl">
-              Git-Hub Link
-            </button>
+            <a href="https://github.com/collotolu/medic_care_clinic">
+              <button className="bg-blue-400 p-[10px] rounded-2xl">
+                Git-Hub Link
+              </button>
+            </a>
           </div>
         </div>{" "}
         <div className="border shadow-2xl p-[20px]">
@@ -65,20 +71,24 @@ function Projects() {
           <div className="flex justify-center gap-5 my-[10px]">
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">HTML</p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">CSS</p>
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
+            {/* <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
               React
             </p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
               Node.js
-            </p>
+            </p> */}
           </div>
           <div className="my-[5%] flex justify-center">
             {" "}
-            <button className="bg-blue-400 p-[10px] rounded-2xl">
-              Git-Hub Link
-            </button>
+            <a href="https://github.com/collotolu/jantah">
+              <button className="bg-blue-400 p-[10px] rounded-2xl">
+                Git-Hub Link
+              </button>
+            </a>
           </div>
         </div>
+      </div>
+      <div className="my-[7%]  mx-auto w-[80%] flex gap-4">
         <div className="border shadow-2xl p-[20px]">
           <img
             src="src/image/Screenshot from 2024-07-21 14-18-20.png"
@@ -86,22 +96,29 @@ function Projects() {
             className="w-[500px]"
           />
           <div className="flex justify-center gap-5 my-[10px]">
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">HTML</p>
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">CSS</p>
+            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
+              Javascript
+            </p>
+            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
+              Tailwindcss
+            </p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
               React
             </p>
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
-              Node.js
-            </p>
+            {/* <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
+            Node.js
+          </p> */}
           </div>
           <div className="my-[5%] flex justify-center">
             {" "}
-            <button className="bg-blue-400 p-[10px] rounded-2xl">
-              Git-Hub Link
-            </button>
+            <a href="https://github.com/hellenjames/eternity-design">
+              <button className="bg-blue-400 p-[10px] rounded-2xl">
+                Git-Hub Link
+              </button>
+            </a>
           </div>
         </div>
+
         <div className="border shadow-2xl p-[20px]">
           <img
             src="src/image/Screenshot from 2024-07-21 13-46-57.png"
@@ -112,17 +129,19 @@ function Projects() {
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">HTML</p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">CSS</p>
             <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
-              React
+              Javascript
             </p>
-            <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
-              Node.js
-            </p>
+            {/* <p className="bg-gray-400 text-white rounded-2xl px-[10px]">
+            Node.js
+          </p> */}
           </div>
           <div className="my-[5%] flex justify-center">
             {" "}
-            <button className="bg-blue-400 p-[10px] rounded-2xl">
-              Git-Hub Link
-            </button>
+            <a href="https://github.com/collotolu/ready__bodaa">
+              <button className="bg-blue-400 p-[10px] rounded-2xl">
+                Git-Hub Link
+              </button>
+            </a>
           </div>
         </div>
       </div>
